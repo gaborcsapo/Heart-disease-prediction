@@ -1,0 +1,12 @@
+Model with rank: 1 
+Mean validation score: 0.675 (std: 0.089) 
+Parameters: {'opt_indx': 0, 'nodes': 512, 'lr': 0.2, 'loss': 'poisson', 'bias2': False, 'bias1': True, 'activation2': 'sigmoid', 'activation1': 'sigmoid'} 
+
+Model with rank: 2 
+Mean validation score: 0.675 (std: 0.071) 
+Parameters: {'opt_indx': 0, 'nodes': 512, 'lr': 0.2, 'loss': 'poisson', 'bias2': False, 'bias1': False, 'activation2': 'sigmoid', 'activation1': 'sigmoid'} 
+
+Model with rank: 3 
+Mean validation score: 0.670 (std: 0.026) 
+Parameters: {'opt_indx': 0, 'nodes': 512, 'lr': 0.2, 'loss': 'poisson', 'bias2': False, 'bias1': True, 'activation2': 'softmax', 'activation1': 'sigmoid'} 
+
